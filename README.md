@@ -7,7 +7,7 @@ Last updated for Docker Compose v1.29.2.
 ## Usage
 
 ```
-curl -L https://raw.githubusercontent.com/ManuelFte/Docker-Compose-installer-for-Ubuntu-20.04/master/docker_installer.sh
+curl -L https://raw.githubusercontent.com/ManuelFte/Docker-Compose-installer-for-Ubuntu-20.04/main/docker_installer.sh
 bash docker_installer.sh
 ```
 
